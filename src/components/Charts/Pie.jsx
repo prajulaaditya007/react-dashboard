@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const Pie = () => {
-    return (
-        <div>
-            Pie
-        </div>
-    );
+  return <div>Pie</div>;
 };
 
 export default Pie;
