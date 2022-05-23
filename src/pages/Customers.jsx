@@ -33,6 +33,7 @@ const Customers = () => {
                     <Inject services={[Page, Toolbar, Selection, Edit, Sort, Filter]}/>
                 </GridComponent>
             </div>
+
         </>
     );
 };
